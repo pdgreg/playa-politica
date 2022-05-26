@@ -162,3 +162,6 @@ cython_debug/
 
 # Nova
 .nova
+
+# Mac OS
+.DS_store
